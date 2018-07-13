@@ -1,0 +1,26 @@
+### Handlebars ###
+
+### cdn
+
+- Include cdn, how to find link?
+
+### Script tag
+
+- Type attr is important!
+- This goes in head tag
+- This defines our TEMPLATE
+
+### dataset
+
+- Collection of same objects
+- We don't want to write HTML every tine something is added
+
+### TEMPLATE
+
+- Write template to fit data
+- Double curly bois for Handlebars expression
+
+### Compile
+
+- Need to compile our HTML template
+- DEBUG ALONG THE WAY
