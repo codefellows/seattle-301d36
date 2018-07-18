@@ -1,0 +1,14 @@
+{
+  "name": "301d36-day-7",
+  "version": "1.0.0",
+  "description": "This is our class code for day 7. Also, GREGOR!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicio Sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
