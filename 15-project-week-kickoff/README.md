@@ -18,11 +18,6 @@
 
 `BREAK (10 minutes)`
 
-**Any requested topics for more specific review? Let's make a list!**
-
-- (topic 1?)
-- (topic 2?)
-- (topic 3?)
 
 **Let's look at a few prior 301 projects...**
 
